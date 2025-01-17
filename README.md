@@ -26,4 +26,7 @@ Ultimately, the system displays the players in each cluster, the recommended dri
    - Cluster players into similar groups based on their performance data.
    - Predict a recommended soccer drill category for each cluster, detailing the areas of improvement and example drills.
    - Display a scrollable list of players in each cluster.
+## Demonstration Video
+[![AI Project Demonstration Video](https://img.youtube.com/vi/peiv2tWdG9A/0.jpg)](https://www.youtube.com/watch?v=peiv2tWdG9A)
+
 
